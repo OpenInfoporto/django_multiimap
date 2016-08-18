@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+django_multiimap/__init__.py
+django_multiimap/apps.py
+django_multiimap/backend.py
+django_multiimap.egg-info/PKG-INFO
+django_multiimap.egg-info/SOURCES.txt
+django_multiimap.egg-info/dependency_links.txt
+django_multiimap.egg-info/top_level.txt
