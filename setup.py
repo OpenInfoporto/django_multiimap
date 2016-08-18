@@ -23,7 +23,7 @@ setup(
         'Framework :: Django',
         'Framework :: Django :: 1.9',  
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: GPL License',  
+        'License :: OSI Approved :: GNU General Public License (GPL)',  
         'Operating System :: OS Independent',
         'Programming Language :: Python :: 2.6',
 	'Programming Language :: Python :: 2.7',

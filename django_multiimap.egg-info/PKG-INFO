@@ -44,7 +44,7 @@ Classifier: Environment :: Web Environment
 Classifier: Framework :: Django
 Classifier: Framework :: Django :: 1.9
 Classifier: Intended Audience :: Developers
-Classifier: License :: OSI Approved :: GPL License
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
 Classifier: Operating System :: OS Independent
 Classifier: Programming Language :: Python :: 2.6
 Classifier: Programming Language :: Python :: 2.7
